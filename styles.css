@@ -7,6 +7,10 @@ body {
     color: #CCC;
 }
 
+.nhlogo {
+    background: #CCC url(nhlogo.jpg) no-repeat center center fixed;
+}
+
 .watermark {
     color:#888;
     font-family: sans-serif;

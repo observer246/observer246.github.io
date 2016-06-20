@@ -9,6 +9,8 @@ body {
 
 .nhlogo {
     background: #CCC url(nhlogo.jpg) no-repeat center center fixed;
+    width: 960px;
+    height: 200px;
 }
 
 .watermark {

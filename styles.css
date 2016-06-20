@@ -10,7 +10,7 @@ body {
     background-image: url(nhlogo.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: fixed;
+    margin-top: 100px;
     width: 960px;
     height: 200px;
 }

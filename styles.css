@@ -18,8 +18,7 @@ body {
 .watermark {
     color: #888;
     font-family: sans-serif;
-    font-style: italic;
-    font-size: 32px;
+    font-size: 28px;
 }
 .bigger {
     font-size: 36px;

@@ -1,14 +1,16 @@
 body {
     padding:0;
     margin: 0;
-    background-color: #000;
     background: #000 url(dark-metal-texture.jpg) no-repeat center center fixed;
     font-family: tahoma;
     color: #CCC;
 }
 
 .nhlogo {
-    background: transparent url(nhlogo.png) no-repeat center center fixed;
+    background-image: url(nhlogo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     width: 960px;
     height: 200px;
 }

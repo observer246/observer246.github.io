@@ -8,7 +8,7 @@ body {
 }
 
 .nhlogo {
-    background: #CCC url(nhlogo.png) no-repeat center center fixed;
+    background: url(nhlogo.png) no-repeat center center fixed;
     width: 960px;
     height: 200px;
 }

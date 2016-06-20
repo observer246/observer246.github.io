@@ -8,13 +8,13 @@ body {
 }
 
 .nhlogo {
-    background: url(nhlogo.png) no-repeat center center fixed;
+    background: transparent url(nhlogo.png) no-repeat center center fixed;
     width: 960px;
     height: 200px;
 }
 
 .watermark {
-    color:#888;
+    color: #888;
     font-family: sans-serif;
     font-style: italic;
 }
